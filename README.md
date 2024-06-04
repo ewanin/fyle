@@ -1,9 +1,10 @@
-![Hero Banner](image.png)
-![Service Section](image-1.png)
-![Choose Us Section](image-2.png)
-![Project Section](image-3.png)
-![Growth Section](image-4.png)
-![Feedback Section](image-5.png)
+![image](https://github.com/ewanin/fyle/assets/70193546/a8f7e4af-970c-4218-8e2e-3604255d04d9)
+![image-1](https://github.com/ewanin/fyle/assets/70193546/32edb099-866f-45d6-aa48-eeba765b6ec8)
+![image-2](https://github.com/ewanin/fyle/assets/70193546/7a4d8205-80ca-4ffc-9391-a2b3510fb426)
+![image-3](https://github.com/ewanin/fyle/assets/70193546/37894fa2-5710-43a2-ae88-f07c5aadaffe)
+![image-4](https://github.com/ewanin/fyle/assets/70193546/fbb36254-361e-49bb-898d-a40d6602d839)
+![image-5](https://github.com/ewanin/fyle/assets/70193546/99dbc331-364c-47d9-8fcd-561f5e981829)
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
