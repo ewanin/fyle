@@ -1,3 +1,10 @@
+![Hero Banner](image.png)
+![Service Section](image-1.png)
+![Choose Us Section](image-2.png)
+![Project Section](image-3.png)
+![Growth Section](image-4.png)
+![Feedback Section](image-5.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
