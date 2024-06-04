@@ -7,10 +7,16 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      fontFamily:{
+        cormorant_sc: ["Cormorant_SC", "sans-serif"],
+      },
+      colors: {
+        pink: '#FF3147',
+        blackish: '#000000',
+        whitish: '#FFFFFF', 
+        gray: '#F6F6F6',
+        grayish: '#FAFAFA',
+        grayDark: '#808080'
       },
     },
   },
